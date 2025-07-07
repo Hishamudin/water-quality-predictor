@@ -43,12 +43,3 @@ The app predicts concentrations of the following pollutants:
 - Inputs: `year`, `station_id` (one-hot encoded)
 - Outputs: 6 pollutant levels
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/Hishamudin/water-quality-predictor.git
-   cd water-quality-predictor
